@@ -1,0 +1,1 @@
+print("This is init file of medical insurance project")
